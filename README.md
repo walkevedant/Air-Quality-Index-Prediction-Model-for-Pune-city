@@ -1,11 +1,11 @@
 # Air-Quality-Index-Prediction-Model-for-Pune-city
 
-❖ ABSTRACT
+##❖ ABSTRACT
 Air pollution is a major and pressing public health threat. The data used in the project is collected by Pune Smart City Development Corporation Ltd over a period of one year. Air pollution is a growing concern in Pune City, and this project aims to use data-driven analysis to understand the impact of various environmental factors on the air quality index (AQI). The project collected and analyzed data on weather conditions, traffic density, and industrial activity to identify the key contributors to air pollution in different areas of the city. Using statistical methods and data visualization techniques, the project identified the factors that significantly impact AQI and developed effective strategies and policies to mitigate the impact of air pollution on public health and the environment. The project employed exploratory data analysis, correlation analysis, regression analysis, time-series analysis, and deep learning techniques to predict AQI values. The findings of this study can inform policymakers, environmentalists, and other stakeholders who seek to improve air quality in Pune and other urban areas, and contribute towards creating a healthier and more sustainable living environment for the residents of Pune city.
 
 Keywords : Data, Air Quality Index, Data Analysis, Statistical analysis, Data Modelling, Exploratory data analysis, Correlation analysis, Regression analysis, Time-series analysis, Deep learning techniques 
 
-❖ INTRODUCTION
+##❖ INTRODUCTION
 Air pollution is a serious issue, and Pune is not immune to its effects. To assess the impact of different environmental factors on the air quality index (AQI), a project was conducted using data collected between January 2021 and January 2022. The project used various data analysis techniques, including exploratory data analysis, correlation analysis, regression analysis, and time-series analysis, to identify the key factors affecting AQI. Through these techniques, the project aimed to gain a better understanding of the factors influencing air pollution in Pune and to provide insights into potential solutions to address this growing concern. 
 
 ❖ OBJECTIVE
