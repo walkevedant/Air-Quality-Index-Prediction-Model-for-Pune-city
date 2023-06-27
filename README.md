@@ -1,3 +1,4 @@
+# Pune City Air Quality Index Prediction using Machine Learning
 This project focuses on predicting the Air Quality Index (AQI) in Pune City, India, using machine learning techniques. The AQI is an important indicator of air pollution levels, and accurate predictions can help raise awareness, inform decision-making, and facilitate effective pollution control measures. The project utilizes a dataset containing historical air quality data and various environmental parameters.
 
 Project Steps:
