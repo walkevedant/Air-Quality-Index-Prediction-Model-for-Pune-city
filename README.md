@@ -1,18 +1,71 @@
 # Air-Quality-Index-Prediction-Model-for-Pune-city
+## Problem Definition
 
-### ABSTRACT
-Air pollution is a major and pressing public health threat. The data used in the project is collected by Pune Smart City Development Corporation Ltd over a period of one year. Air pollution is a growing concern in Pune City, and this project aims to use data-driven analysis to understand the impact of various environmental factors on the air quality index (AQI). The project collected and analyzed data on weather conditions, traffic density, and industrial activity to identify the key contributors to air pollution in different areas of the city. Using statistical methods and data visualization techniques, the project identified the factors that significantly impact AQI and developed effective strategies and policies to mitigate the impact of air pollution on public health and the environment. The project employed exploratory data analysis, correlation analysis, regression analysis, time-series analysis, and deep learning techniques to predict AQI values. The findings of this study can inform policymakers, environmentalists, and other stakeholders who seek to improve air quality in Pune and other urban areas, and contribute towards creating a healthier and more sustainable living environment for the residents of Pune city.
+Air pollution is a pressing issue that demands immediate attention in Pune City, India. The need for this project arises from the escalating levels of air pollution and its detrimental impact on public health and the environment. This section presents a detailed analysis of the need for the project, the problem statement, the objectives, the scope, and the methodology employed to address the issue effectively.
 
-Keywords : Data, Air Quality Index, Data Analysis, Statistical analysis, Data Modelling, Exploratory data analysis, Correlation analysis, Regression analysis, Time-series analysis, Deep learning techniques 
+## Need of the Project
 
-### INTRODUCTION
-Air pollution is a serious issue, and Pune is not immune to its effects. To assess the impact of different environmental factors on the air quality index (AQI), a project was conducted using data collected between January 2021 and January 2022. The project used various data analysis techniques, including exploratory data analysis, correlation analysis, regression analysis, and time-series analysis, to identify the key factors affecting AQI. Through these techniques, the project aimed to gain a better understanding of the factors influencing air pollution in Pune and to provide insights into potential solutions to address this growing concern. 
+The increasing pollution levels in Pune City have become a matter of great concern for its residents and environmental authorities. The need for this project can be summarized as follows:
 
-### OBJECTIVE
-This project aims to utilize data-driven analysis techniques to examine the impact of various environmental factors on the air quality index in Pune City. Factors such as temperature, humidity, wind speed, and rainfall will be analyzed to identify the key contributors to air pollution in the city. The project aims to identify targeted interventions and policies that can be implemented to improve air quality and protect public health. To achieve this, data collected by Pune Smart City Development Corporation Ltd over a period of one year will be utilized. The project will employ various techniques and analysis software to analyze the data and identify patterns and trends. By utilizing data-driven approaches, the project aims to provide valuable insights into the factors affecting air pollution in Pune, and to help inform policies and strategies that can effectively address this growing concern.
+* Public Health Concerns: The rising levels of air pollution in Pune have been linked to a wide range of health issues, including respiratory problems, cardiovascular diseases, and even premature death. It is crucial to assess the extent of air pollution and identify its key contributors to develop targeted interventions for safeguarding public health.
 
-### SCOPE OF INVESTIGATION
-The objective of this project is to conduct a comprehensive data-driven analysis of environmental factors that contribute to air pollution in Pune city, and to evaluate their impact on the air quality index (AQI). The project will collect and analyze relevant data, including weather conditions, traffic density, and industrial activity, to identify the key contributors to air pollution in different areas of the city. By using statistical methods and data visualization techniques, the project aims to provide insights into the factors that significantly impact AQI and to develop effective strategies and policies to mitigate the impact of air pollution on public health and the environment. The findings of this study will be valuable for policymakers, environmentalists, and other stakeholders who seek to improve air quality in Pune and other urban areas. Overall, the project aims to contribute towards creating a healthier and more sustainable living environment for the residents of Pune city.
+* Environmental Impact: Air pollution not only affects human health but also has severe consequences for the environment. The emission of pollutants from various sources contributes to climate change, ozone depletion, and ecological imbalance. Understanding the environmental impact of air pollution in Pune is vital for implementing sustainable measures to mitigate pollution levels.
 
-### METHODOLOGY
-This project involves a series of steps to conduct a comprehensive data-driven analysis of environmental factors and their impact on air pollution in Pune City. The first step is to collect relevant data on environmental factors, such as temperature, humidity, wind speed, rainfall, and air pollution levels, from government websites, environmental agencies, and sensors installed in the city. The data collected should cover a period of at least 3-5 years to capture seasonal and long-term trends. The next step is to clean the data to remove any inconsistencies or errors, such as missing values, outliers, and duplicates, using software tools such as Excel, R, or Python. Exploratory data analysis is then performed to visualize and summarize the data using histograms, scatter plots, box plots, and other visualizations to explore the distribution, relationships, and patterns in the data. Correlation analysis is conducted to identify which environmental factors are strongly correlated with the air quality index, using software tools such as Excel, R, or Python to calculate correlation coefficients such as Pearson's correlation or Spearman's rank correlation. Regression analysis is then used to predict the air quality index based on environmental factors such as temperature, humidity, and wind speed. A linear regression model is built, and its performance is evaluated using metrics such as R-squared, mean squared error, and mean absolute error, using software tools such as Excel, R, or Python. Time-series analysis is also performed to analyze the trends and patterns of air quality index over time. Time-series plots are created, and the time-series is decomposed into trend, seasonal, and residual components. Forecasting techniques are used to predict future values of the air quality index, using software tools such as Excel, R, or Python. Additionally, deep learning techniques is  used to build a prediction model. The results of these analyses can be used to develop strategies and policies to mitigate the impact of air pollution on public health and the environment in Pune City.
+* Regulatory Compliance: Pune City, like many urban areas, is subject to air quality regulations and standards set by governmental agencies. Regular monitoring and assessment of air quality are necessary to ensure compliance with these standards and take appropriate actions to reduce pollution levels.
+
+* Future Planning and Development: Pune is a rapidly growing city with increasing industrial and vehicular activities. It is essential to evaluate the current and future trends of air pollution to inform urban planning, transportation management, and industrial regulations for sustainable development.
+
+## Problem Statement
+
+The problem statement for this project encapsulates the core challenge that needs to be addressed. The problem statement is defined as follows:
+
+"The levels of air pollution in Pune City have reached critical levels, posing significant risks to public health and the environment. The problem is characterized by increasing pollutant concentrations, diverse pollution sources, and a lack of comprehensive understanding of the key contributors to air pollution. This project aims to analyze the impact of various environmental factors on the Air Quality Index (AQI) in Pune and develop effective strategies for its mitigation."
+
+## Objectives
+
+The objectives of the project outline the specific goals that need to be achieved to address the problem effectively. The objectives of this project are as follows:
+
+* Identify Key Contributors: Determine the primary sources and factors contributing to air pollution in Pune City.
+
+* Analyze Environmental Factors: Assess the impact of weather conditions, traffic density, and industrial activities on air pollution levels.
+
+* Develop Predictive Models: Build regression models to predict the AQI based on environmental parameters and identify critical time periods for pollution mitigation.
+
+* Evaluate Policy Implications: Provide recommendations for policy interventions and regulatory measures to control air pollution in Pune City.
+
+* Raise Public Awareness: Communicate the health risks associated with air pollution and promote individual actions to reduce exposure.
+
+## Scope
+
+The scope of the project defines the boundaries and extent of the study. It clarifies what aspects will be covered and what will be excluded. The scope of this project includes:
+
+* Analysis of Air Quality Index (AQI): The project focuses on analyzing the AQI as an indicator of air pollution levels in Pune City.
+
+* Environmental Factors: The study examines the influence of weather conditions, traffic density, and industrial activities on air pollution.
+
+* Data Collection and Analysis: The project utilizes a wide range of data sources to collect and analyze relevant information on air quality and pollution sources.
+
+* Policy Recommendations: The project provides recommendations for policy interventions and regulatory measures to mitigate air pollution in Pune City.
+
+* Public Awareness: The project emphasizes the importance of public awareness and individual actions to reduce pollution exposure and promote a healthy environment.
+
+## Methodology
+
+The methodology section outlines the approach and techniques used to achieve the project objectives. The methodology for this project includes the following steps:
+
+* Data Collection: Collect a comprehensive dataset comprising air quality measurements, meteorological data, traffic density information, and industrial emission records.
+
+* Data Preprocessing: Clean and preprocess the collected data to ensure its accuracy and suitability for analysis.
+
+* Exploratory Data Analysis: Conduct exploratory data analysis to gain insights into the patterns, trends, and distributions of air pollution levels and environmental factors.
+
+* Correlation Analysis: Evaluate the relationships between environmental factors and air pollution levels to identify significant correlations.
+
+* Regression Analysis: Develop regression models to predict the AQI based on weather conditions, traffic density, and industrial activities.
+
+* Policy Recommendations: Formulate policy recommendations based on the study findings, taking into account the specific characteristics and needs of 
+  Pune City.
+
+Public Awareness Campaign: Develop strategies to raise public awareness about the health risks associated with air pollution and promote individual actions for pollution reduction.
+
+By following this methodology, the project aims to provide a comprehensive understanding of air pollution in Pune City and propose effective strategies for its mitigation.
